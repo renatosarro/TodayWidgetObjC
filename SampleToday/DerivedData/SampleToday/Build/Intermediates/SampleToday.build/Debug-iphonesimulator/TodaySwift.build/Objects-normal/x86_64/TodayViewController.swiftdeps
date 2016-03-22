@@ -1,0 +1,179 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TodayViewController"
+provides-nominal:
+- "C10TodaySwift19TodayViewController"
+provides-member:
+- ["C10TodaySwift19TodayViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "widgetPerformUpdateWithCompletionHandler"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- "TodayViewController"
+- "NCUpdateResult"
+- "Void"
+- "UIViewController"
+- "NCWidgetProviding"
+depends-member:
+- !private ["PSs9AnyObject", "NCUpdateResult"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSs9AnyObject", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "NCUpdateResult"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSs11CVarArgType", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "NCUpdateResult"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSs23CustomStringConvertible", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "NCUpdateResult"]
+- !private ["PSs9Equatable", "NewData"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSs9Equatable", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "NCUpdateResult"]
+- !private ["PSs8Hashable", "NewData"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSs8Hashable", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSs8Hashable", ""]
+- !private ["OSC14NCUpdateResult", "NewData"]
+- !private ["PSo17NCWidgetProviding", "NCUpdateResult"]
+- ["PSo17NCWidgetProviding", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo17NCWidgetProviding", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo17NCWidgetProviding", ""]
+- !private ["PSo8NSCoding", "NCUpdateResult"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo8NSCoding", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "NCUpdateResult"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo26NSExtensionRequestHandling", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "NCUpdateResult"]
+- ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "widgetMarginInsetsForProposedMarginInsets"]
+- ["CSo8NSObject", "widgetPerformUpdateWithCompletionHandler"]
+- !private ["PSo16NSObjectProtocol", "NCUpdateResult"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo16NSObjectProtocol", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSs16RawRepresentable", "NewData"]
+- ["C10TodaySwift19TodayViewController", "NCUpdateResult"]
+- ["C10TodaySwift19TodayViewController", "Void"]
+- ["C10TodaySwift19TodayViewController", "deinit"]
+- ["C10TodaySwift19TodayViewController", "didReceiveMemoryWarning"]
+- ["C10TodaySwift19TodayViewController", "init"]
+- ["C10TodaySwift19TodayViewController", "viewDidLoad"]
+- ["C10TodaySwift19TodayViewController", "widgetMarginInsetsForProposedMarginInsets"]
+- ["C10TodaySwift19TodayViewController", "widgetPerformUpdateWithCompletionHandler"]
+- !private ["PSo21UIAppearanceContainer", "NCUpdateResult"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo21UIAppearanceContainer", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "NCUpdateResult"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo18UIContentContainer", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "NCUpdateResult"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo18UIFocusEnvironment", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "NCUpdateResult"]
+- ["CSo11UIResponder", "Void"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "widgetMarginInsetsForProposedMarginInsets"]
+- ["CSo11UIResponder", "widgetPerformUpdateWithCompletionHandler"]
+- !private ["PSo16UIStateRestoring", "NCUpdateResult"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo16UIStateRestoring", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "NCUpdateResult"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", "widgetMarginInsetsForProposedMarginInsets"]
+- ["PSo18UITraitEnvironment", "widgetPerformUpdateWithCompletionHandler"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "NCUpdateResult"]
+- ["CSo16UIViewController", "Void"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "widgetMarginInsetsForProposedMarginInsets"]
+- ["CSo16UIViewController", "widgetPerformUpdateWithCompletionHandler"]
+- ["CSo16UIViewController", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "OSC14NCUpdateResult"
+- "PSo17NCWidgetProviding"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSs16RawRepresentable"
+- "C10TodaySwift19TodayViewController"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "4f2d1864876d451aeddee8d05d3f3add"

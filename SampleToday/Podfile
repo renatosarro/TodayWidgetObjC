@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '7.0'
+
+def ios_dependecias
+    pod "AFNetworking"
+    pod "Mantle"
+end
+
+target 'SampleToday' do
+	ios_dependecias
+end
+
+target 'TodayWidget' do
+    ios_dependecias
+end
+
